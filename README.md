@@ -94,11 +94,3 @@ Contributions to PHPortal are welcome! Feel free to submit issues, feature reque
 Feel free to customize this README to include more specific details about your project and any additional information that might be relevant to your users.
 
 
-
-## Authors
-
-- Hounaar
-- <a href="https://hounaar.com">Personal WebSite</a>
-- <a href="https://twitter.com/hounaar">Twitter (𝕏)</a>
-- <a href="mailto:info@hounaar.com"> Email</a>
-
