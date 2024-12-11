@@ -1,5 +1,5 @@
 # PHPortal - A Simple Database Abstraction Library in PHP
-<a href='https://github.com/parsabe/PHPortal/blob/main/logo.png'></a>
+<img src='https://github.com/parsabe/PHPortal/blob/main/logo.png'>
 PHPortal is a lightweight PHP library that provides a simple and consistent interface for working with various database systems, including MySQL, SQL Server, and Oracle. With PHPortal, you can easily connect to different databases and perform common database operations such as SELECT, INSERT, UPDATE, and DELETE in a unified way.
 
 ## Features
